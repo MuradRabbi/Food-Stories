@@ -1,0 +1,69 @@
+body{ 
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Banner Section Css Stard*/
+
+.banner{ 
+    display: flex;
+    padding: 4%;
+    background-color:rgba(232, 232, 232, 1);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.half-width{ 
+    width: 50%;
+}
+
+.banner-image-decoration{ 
+    width: 100%;
+    border-radius: 5px 50px;
+}
+
+.banner-content-section{ 
+    margin-left:8%;
+    margin-right: 8%;
+    padding-top: 6%;
+}
+
+.text-color{ 
+    color: orange
+}
+
+h1{ 
+    font-size: 40px;
+    margin: 2px;
+    font-weight: 700;
+}
+
+p{
+    color: dimgray;
+    
+}
+
+.btn-margin{ 
+    margin-top: 100px;
+}
+
+.btn-style{ 
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 20px 50px;
+    background-image: linear-gradient(orange , orangered);
+    border-radius: 50px;
+    box-shadow:5px 5px 10px orangered ;
+}
+
+/* Banner Section Css End*/
+
+
+
+
+
+
+
+    
+
