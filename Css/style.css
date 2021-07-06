@@ -137,7 +137,7 @@ p{
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 5%;
-    margin-bottom: 10%;
+    margin-bottom: 4%;
     box-shadow:5px 5px 10px dimgray ;
 }
 
@@ -154,6 +154,40 @@ p{
 }
 
 /*Follower section css end here*/
+
+.review-title{ 
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.review-flex{
+    display: flex;
+    
+    margin-bottom: 5%;
+}
+
+.review-item{ 
+    text-align: center;
+    
+    
+    margin-left: 3%;
+    margin-right: 3% ;
+    
+    padding:20px;
+    background-color:rgba(232, 232, 232, 1);
+    border-radius: 25px;
+    
+}
+
+.reviewer-avatar{ 
+    height: 140px;
+    width: 140px;
+    margin-top: 3%;
+    box-shadow:5px 5px 10px dimgray ;
+    border-radius: 140px;
+    
+
+}
 
 
 
