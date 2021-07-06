@@ -17,7 +17,7 @@ body{
     width: 50%;
 }
 
-.banner-image-decoration{ 
+.banner-image-style{ 
     width: 100%;
     border-radius: 5px 50px;
 }
@@ -59,8 +59,32 @@ p{
 
 /* Banner Section Css End*/
 
+/* About us Section Css End*/
 
+.about-us{
+    display: flex;
+    background-image: url(../images/about-us-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
 
+.about-us-image-style{ 
+    height: 80%;
+    margin-left: 15%;
+    margin-top: 8%;
+    
+    border-radius: 80%;
+}
+
+.about-us-content-section{
+    margin-left:8%;
+    margin-right: 8%;
+    padding-top: 10%;
+}
+
+/* About us section css end*/
 
 
 
